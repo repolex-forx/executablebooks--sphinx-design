@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-design/commit/4f66f32e160f16d73dee5eed52cd91984935763f",
       "git:hexsha": "4f66f32e160f16d73dee5eed52cd91984935763f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T15:09:48.313342+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-design/commit/74889001ae920884f407ce27f101093698b904e2",
