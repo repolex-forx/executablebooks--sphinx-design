@@ -589,7 +589,9 @@
           "githubUrl": "https://github.com/jbms/sphinx-immaterial",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/2e1bb52b863f8401d739f046d37af9f941e53abc/chunk-001.nq.gz",
+      "dep": "dep/2e1bb52b863f8401d739f046d37af9f941e53abc.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
