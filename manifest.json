@@ -457,6 +457,138 @@
       ],
       "ast": [
         "aggregate/ast/2e1bb52b863f8401d739f046d37af9f941e53abc/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/2e1bb52b863f8401d739f046d37af9f941e53abc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sass",
+          "ecosystem": "NPM",
+          "version": "1.35.2",
+          "githubOrg": "sass",
+          "githubRepo": "dart-sass",
+          "githubCommit": "4f428ca5f519a22584d136c1c492086414adc36e",
+          "githubTag": "1.35.2",
+          "githubUrl": "git+https://github.com/sass/dart-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "7",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pre-commit",
+          "ecosystem": "PYPI",
+          "version": "3",
+          "githubOrg": "pre-commit",
+          "githubRepo": "pre-commit",
+          "githubUrl": "https://github.com/pre-commit/pre-commit",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "myst-parser",
+          "ecosystem": "PYPI",
+          "version": "4",
+          "githubOrg": "executablebooks",
+          "githubRepo": "MyST-Parser",
+          "githubUrl": "https://github.com/executablebooks/MyST-Parser",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "8.3",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-regressions",
+          "ecosystem": "PYPI",
+          "version": "2.11.0",
+          "githubOrg": "ESSS",
+          "githubRepo": "pytest-regressions",
+          "githubCommit": "ff8c2da9b67192a24a8851c72754394cc4bc5067",
+          "githubTag": "v2.11.0",
+          "githubUrl": "https://github.com/ESSS/pytest-regressions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "defusedxml",
+          "ecosystem": "PYPI",
+          "version": "0.7.1",
+          "githubOrg": "tiran",
+          "githubRepo": "defusedxml",
+          "githubCommit": "ebff1b493751e2f0775314bdd4188d64f07ea184",
+          "githubTag": "v0.7.1",
+          "githubUrl": "https://github.com/tiran/defusedxml",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2024.7.18",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pydata-sphinx-theme",
+          "ecosystem": "PYPI",
+          "version": "0.15.2",
+          "githubOrg": "pydata",
+          "githubRepo": "pydata-sphinx-theme",
+          "githubCommit": "6010af1af74db163398092b1f6e721e7da631b02",
+          "githubTag": "v0.15.2",
+          "githubUrl": "https://github.com/pydata/pydata-sphinx-theme",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "ecosystem": "PYPI",
+          "version": "2.0",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubUrl": "https://github.com/readthedocs/sphinx_rtd_theme",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-book-theme",
+          "ecosystem": "PYPI",
+          "version": "1.1",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-book-theme",
+          "githubUrl": "https://github.com/executablebooks/sphinx-book-theme",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-immaterial",
+          "ecosystem": "PYPI",
+          "version": "0.12.2",
+          "githubOrg": "jbms",
+          "githubRepo": "sphinx-immaterial",
+          "githubCommit": "9ec088ed7e61c545cde3a75f8c01025ad70c9f90",
+          "githubTag": "v0.12.2",
+          "githubUrl": "https://github.com/jbms/sphinx-immaterial",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
